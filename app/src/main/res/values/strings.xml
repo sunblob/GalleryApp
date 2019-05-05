@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+    <string name="menu_main">Главная</string>
+    <string name="menu_gallery">Галерея</string>
+    <string name="menu_support">Поддержка</string>
+    <string name="category">Категория</string>
+    <string name="button_choose_category">Выбрать рамку</string>
+</resources>
